@@ -73,5 +73,5 @@ Jika Anda tidak memiliki NetBeans, Anda dapat meng-compile dan menjalankannya se
     *(Atau jika menggunakan package: `java com.proyek.Main`)*
 
 ## 🧑‍💻 Pembuat
-* **[Nama Anda]** - `[NIM Anda]`
+* **Muhammad Nafiz** - `Information Technology`
 * Mata Kuliah: Pemrograman Berorientasi Objek
